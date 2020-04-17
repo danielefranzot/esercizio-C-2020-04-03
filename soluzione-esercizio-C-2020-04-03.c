@@ -1,7 +1,6 @@
 /*
  * soluzione-esercizio-C-2020-04-03.c
  *
- *  Created on: 17 apr 2020
  *      Author: Daniele Franzot
  */
 #include<stdio.h>
